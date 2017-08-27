@@ -1,0 +1,20 @@
+Codebook
+
+Variables
+t = time
+f = frequence
+mean = Mean 
+-std = Standard deviation 
+
+
+Activities:
+
+Walking
+Walking_Upstairs 
+Walking_downstairs 
+Sitting
+Standing 
+Laying 
+
+The clean data version is called “FinalData” 
+ 
